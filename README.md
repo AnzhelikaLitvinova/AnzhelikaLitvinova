@@ -14,4 +14,9 @@ https://ai.studio/apps/drive/1ZpyVjRzi_gCvuWFDSCYAj4RSxlbzKvxj
 https://ai.studio/apps/drive/1iDZ0ESTq0usFyuLv6k73lvPJco-BAZOM
 
 
+ДЗ 1: На 13 января. «Создайте своего первого нейро-сотрудника на Google AI Studio»
+Бюджет-трекер на день (проанализирует список трат)
+ССЫЛКА на приложение "Бюджет-трекер":
+https://ai.studio/apps/drive/1NaMGuwORhziajW_OrEPANyZakNOgrZMT
+
 Должен  быть включен ВПН
